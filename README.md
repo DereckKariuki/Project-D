@@ -1,3 +1,3 @@
 # Project-D
-Responsive Web design
+Responsive Web design.
 
