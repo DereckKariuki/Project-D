@@ -1,2 +1,2 @@
-gi
-
+Project D
+Responsive Web page
